@@ -1,0 +1,7 @@
+[package]
+name = "euler15"
+version = "0.1.0"
+authors = ["Jan Meenhard <jan@universe>"]
+
+[dependencies]
+num="*"
